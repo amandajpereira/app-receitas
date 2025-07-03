@@ -1,27 +1,41 @@
-# AppReceitas
+# 🍽️ App de Receitas com Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
+Este é um projeto de um **App de Receitas** feito com Angular, onde é possível visualizar receitas e adicionar novas através de um formulário. ✨
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🔗 Acesse o projeto online:
 
-## Code scaffolding
+👉 [Clique aqui para acessar o GitHub Pages](https://amandajpereira.github.io/app-receitas/)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## 💡 Funcionalidades
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- 📋 Lista de receitas com nome, descrição e imagem
+- ➕ Formulário para adicionar novas receitas
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🧑‍💻 Tecnologias utilizadas
 
-## Running end-to-end tests
+- Angular
+- TypeScript
+- HTML
+- SCSS
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+---
 
-## Further help
+## 🚀 Como rodar o projeto localmente
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# Clonar o repositório
+git clone https://github.com/amandajpereira/app-receitas.git
+
+# Entrar na pasta do projeto
+cd app-receitas
+
+# Instalar as dependências
+npm install
+
+# Rodar o projeto
+ng serve
